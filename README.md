@@ -1,41 +1,12 @@
 
 
-## Available Scripts
+## How to run this code
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. make a folder say ' folder1' on your system open gitbash there type ' git init ' then ' git clone https://github.com/Ankit000000/Crypto-tracker.git '         ( now you have installed most of the code of our app only node_modules need to be installed in the following steps to run the app )
+2. open this ' folder1 ' in your code editor and open a new terminal type in the terminal ' npm install axios react-icons '
+3. after that type in the terminal ' npm start '
+4. that should start the app in development mode in your browser 
+if not then, Open [http://localhost:3000]       (http://localhost:3000) to view it in your browser
 
 ## Learn More
 
