@@ -7,7 +7,7 @@
 }
 
 .featured .container {
-    display: grid;
+    display: flex;
     grid-template-rows: repeat(2, 1fr);
     justify-content: center;
     align-items: center;
